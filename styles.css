@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+.header {
+    background-color: rgb(144, 165, 42);
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color: rgb(233, 232, 234);
+    font-size: 1em;
+}
+
+.header a {
+    color: aqua;
+    font-size: 0.8em;
+}
+
+.gallery {
+    background-color: chartreuse;
+}
+
+.gallery img {
+    width: 20%;
+    margin: 2%;
+}
